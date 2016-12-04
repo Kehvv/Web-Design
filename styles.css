@@ -1,0 +1,121 @@
+
+body {
+	background-color: #181818;
+	font-family: Verdana, Tahoma, Ariel, san-serif;
+	font-size: 18px;
+	overflow: auto;
+	height: 100%;
+	color: #949494;
+
+}
+
+p {
+	margin: 2%;
+}
+
+header {
+	text-align: center;
+	width: 96%;
+	min-height: 125px;
+}
+
+
+
+#wrapper{
+	margin: 0 auto;
+	max-width: 1020px;
+	width:98%;
+	background: #242627;
+	border:2px solid #323232;
+
+	border-radius: 2px;
+
+	box-shadow: 0px 0px 32px 2px rgba(252,252,252,0.27);	
+}
+.ban img{
+	display:block;
+	width: 80%;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#callout {
+		background-color: #949494;
+		color:#181818;
+		width: 100%;
+		height: auto;
+		overflow: hidden;
+}
+#rb {
+	max-width: 10%;
+	height: auto;
+	padding: 1%;
+}
+nav{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	
+}
+
+nav ul {
+	
+	text-align: center;
+	list-style: none;
+	margin: 0;
+	
+
+}
+nav ul li {
+	float: left;
+	border: 1px solid #bfc4c9;
+	width: 13%;
+
+}
+nav ul li a {
+	background-color: #181818;
+	display: block;
+	padding: 2% 5%;
+	font-weight: bold;
+	font-size: 75%;
+	color: #bfc4c9;
+	text-decoration: none;
+	text-align: center;
+}
+#kev {
+	float:left;
+	max-width: 20%;
+	height: auto;
+	padding: 2%;
+}
+#joe{
+	padding: 2%;
+	float:right;
+	margin: auto;
+	
+	
+	max-width: 20%;
+	height: auto;
+}
+
+.gallery img {
+	display:block;
+	width: auto;
+	max-width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.gallery p {
+	display:block;
+	width: auto;
+	max-width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.name {
+	max-width:40%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
